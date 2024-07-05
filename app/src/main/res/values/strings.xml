@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="day_of_weak">Day of weak:</string>
+    <string name="save_note">Save note</string>
+    <string name="the_title_of_the_note">The title of the note:</string>
+    <string name="description_of_the_note">Description of the note</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="all_columns_must_be_filled_in">All columns must be filled in</string>
+
+    <string-array name="days_of_weak">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>
